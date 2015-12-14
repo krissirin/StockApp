@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="StockUpdateContext-Web.config Connection String" description="StockUpdateContext Connection String used in web.config by the application to access the database." defaultValue="Data Source=(localdb)\MSSQLLocalDB; Initial Catalog=StockUpdateContext-20151212200708; Integrated Security=True; MultipleActiveResultSets=True; AttachDbFilename=|DataDirectory|StockUpdateContext-20151212200708.mdf" tags="SqlConnectionString">
+    <parameterEntry kind="XmlFile" scope="E:\\EAD_PROJECT-feature_x\\StockUpdate\\obj\\Release\\Package\\PackageTmp\\Web\.config$" match="/configuration/connectionStrings/add[@name='StockUpdateContext']/@connectionString" />
+  </parameter>
+</parameters>

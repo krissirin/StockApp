@@ -1,0 +1,1 @@
+C:\Users\rip\Documents\ITT\MiniProject_v5\StockUpdate\StockViewWP_App\StockViewWP_App.csproj;neutral
